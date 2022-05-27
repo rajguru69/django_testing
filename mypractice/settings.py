@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-jvo2$q*1yo=8!t*_bevihysj2xj&+l5ju%+ayrvug!ln(de-u^
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['ramesh-test.herokuapp.com']
+ALLOWED_HOSTS = ['ramesh-test-app.herokuapp.com']
 
 
 # Application definition
